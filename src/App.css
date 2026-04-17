@@ -1,1 +1,9 @@
+body {
+  font-family: Arial;
+}
 
+.app {
+  text-align: center;
+  background-color: lightgreen;
+  padding: 50px;
+}
